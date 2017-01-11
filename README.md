@@ -1,3 +1,6 @@
+This repository exists for technical reasons. You should go to the
+[upstream](https://github.com/AltSysrq/lmdb-zero) repository instead.
+
 # lmdb-zero
 
 lmdb-zero is a near-zero-cost wrapper around [LMDB](http://lmdb.tech/) designed
